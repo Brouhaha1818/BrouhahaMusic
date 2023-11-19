@@ -1,0 +1,113 @@
+body {
+    font-size: 15pt;
+    background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: white;
+font-size: 16px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.navbar a {
+  color: black;
+  text-decoration: none;
+}
+main {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+.bigImage {
+  width: 100%;
+  height: auto;
+}
+.footer-navbar {
+  background-color: white;
+}
+    body {
+      background-color: black;
+      margin: 0;
+    }
+
+    .wrapper {
+      background-image: url("/poster9_22_23572.jpeg");
+ 
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: cover;
+      width: 300px;
+      height: 300px;
+      text-align: center;
+      margin: 50px auto;
+   left: 50px;
+         
+    }
+
+    about-content {
+      background-color: rgba(255, 255, 255, 0.6);
+      padding: 20px;
+      margin-top: -40px;  
+      border-radius: 10px;
+      width: 300px; 
+      position: absolute; 
+      top: 70%; 
+      left: 50%; 
+      transform: translate(-50%, -50%); 
+      
+    }
+
+    h2 {
+      text-align: center;
+      
+    }
+    p {
+      color: white;
+      padding: 20px;
+    margin-top: 10;
+    text-align: top;
+    }
+    span {
+      color: red;
+    }
+        .footer {
+      
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 14px;
+      margin-top: auto; 
+    }
+    .yellow-text {
+      color: yellow;
+    }
+    .green-text {
+      color: greenyellow;
+    }
+    
+    
+nav ul li a {
+  color: black; 
+  text-decoration: none;
+}
+
+nav ul li a.active {
+  color: red; 
+}
